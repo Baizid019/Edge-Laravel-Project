@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.circular-image {
+    border-radius: 50%;
+    width: 100px; /* Set desired size */
+    height: 100px; /* Set desired size */
+    object-fit: cover; /* Ensures the image fits inside the circle */
+}
