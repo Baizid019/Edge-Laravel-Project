@@ -17,8 +17,8 @@
             </div>
         </div>
         <div class="caption">
-            <h1 class="up stroke"><span>I am Baizid</span> <span>Kamruzzaman</span></h1>
-            <h1 class="down"><span>I am Baizid</span> <span>Kamruzzaman</span></h1>
+            <h1 class="up stroke"><span>I am Baizid</span> <span>Zaman</span></h1>
+            <h1 class="down"><span>I am Baizid</span> <span>Zaman</span></h1>
         </div>
     </header>
 
@@ -55,9 +55,11 @@
                     <div class="item-box radius-15 md-mb30" style="height:500px">
                         <h5 class="mb-15"style="margin-left: 29px;color: yellow;" >Technical  Skills : </h5>
                         <ul style="list-style-type: disc; font-size: 1.5em">
-                        <li>HTML , CSS , JS </li>
+                        <li>C , C++ </li>
                         <br>
                         <li>PHP , PYTHON</li>
+                        <br>
+                        <li>HTML , CSS , JS </li>
                         <br>
                         <li>FLUSK</li>
                         <br>
@@ -147,13 +149,31 @@
                                         </div>
                                     </div>
                                 </div>
+                                <br>
+                                <div class="d-flex align-items-center mb-20">
+                                        <br>
+                                        <div>
+                                            <h6 class="nowrap fz-16">Religion :</h6>
+                                        </div>
+                                        <div class="ml-20">
+                                            <p class="fz-14">Islam</p>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex align-items-center mb-20">
+                                        <div>
+                                            <h6 class="nowrap fz-16">Hobbies :</h6>
+                                        </div>
+                                        <div class="ml-20">
+                                            <p class="fz-14">Cricket , Coin Collection , Gardening , Travelling</p>
+                                        </div>
+                                    </div>
                                 <div class="col-md-6">
                                     <div class="d-flex align-items-center mb-20">
                                         <div>
                                             <h6 class="nowrap fz-16">Phone :</h6>
                                         </div>
                                         <div class="ml-20">
-                                            <p class="fz-14">01846200413</p>
+                                            <p class="fz-14">01846200413 </p>
                                         </div>
                                     </div>
                                     <div class="d-flex align-items-center">
@@ -211,12 +231,12 @@
                     <div class="item mb-30">
                         <div class="box-bord main-bg">
                             <div class="img">
-                            <img src="assets/imgs/resume/github.png" alt="" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
+                            <img src="assets/imgs/resume/cf.png" alt="" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
 
                             </div>
                         </div>
-                                <a href="https://github.com/Baizid019" target="_blank">
-                                 <h6>GitHub</h6>
+                                <a href="https://codeforces.com/profile/Bhabuk_Bhai" target="_blank">
+                                 <h6>Codeforces</h6>
                                </a>
                         </div>
                 </div>
@@ -224,45 +244,53 @@
                     <div class="item mb-30">
                         <div class="box-bord main-bg">
                             <div class="img">
-                                <img src="assets/imgs/resume/s3.png" alt="">
+                            <img src="assets/imgs/resume/lcde.png" alt="" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
+
                             </div>
-                            <span class="value">85%</span>
                         </div>
-                        <h6 class="fz-18">Graphic Design</h6>
-                    </div>
+                                <a href="https://leetcode.com/u/Baizid_019/" target="_blank">
+                                 <h6>Leetcode</h6>
+                               </a>
+                        </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-6">
                     <div class="item mb-30">
                         <div class="box-bord main-bg">
                             <div class="img">
-                                <img src="assets/imgs/resume/s5.png" alt="">
+                            <img src="assets/imgs/resume/ldin.png" alt="" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
+
                             </div>
-                            <span class="value">84%</span>
                         </div>
-                        <h6 class="fz-18">Sketch</h6>
-                    </div>
+                                <a href="https://www.linkedin.com/in/baizid-kamruzzaman/" target="_blank">
+                                 <h6>Linkedin</h6>
+                               </a>
+                        </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-6">
                     <div class="item mb-30">
                         <div class="box-bord main-bg">
                             <div class="img">
-                                <img src="assets/imgs/resume/s4.png" alt="">
+                            <img src="assets/imgs/resume/atc.png" alt="" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
+
                             </div>
-                            <span class="value">78%</span>
                         </div>
-                        <h6 class="fz-18">WordPress</h6>
-                    </div>
-                </div>
+                                <a href="https://atcoder.jp/users/Baizid_19" target="_blank">
+                                 <h6>Atcoder</h6>
+                               </a>
+                        </div>
+                        </div>
                 <div class="col-lg-2 col-md-4 col-6">
                     <div class="item mb-30">
                         <div class="box-bord main-bg">
                             <div class="img">
-                                <img src="assets/imgs/resume/s6.png" alt="">
+                            <img src="assets/imgs/resume/cc.jpg" alt="" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
+
                             </div>
-                            <span class="value">85%</span>
                         </div>
-                        <h6 class="fz-18">Graphic Design</h6>
-                    </div>
+                                <a href="https://www.codechef.com/users/baizid_19" target="_blank">
+                                 <h6>Codechef</h6>
+                               </a>
+                        </div>
                 </div>
             </div>
         </div>
@@ -277,9 +305,8 @@
     <section class="portfolio-carsouel section-padding" data-scroll-index="3">
         <div class="container">
             <div class="sec-head mb-80">
-                <h6 class="sub-title main-color mb-25">Our Portfolio</h6>
                 <div class="bord pt-25 bord-thin-top d-flex align-items-center">
-                    <h2>Our featured <span class="fw-200">projects</span></h2>
+                    <h2>My <span class="fw-200">Projects</span></h2>
                     <div class="ml-auto">
                         <div class="swiper-arrow-control">
                             <div class="swiper-button-prev">
@@ -300,12 +327,12 @@
                         <div class="swiper-slide">
                             <div class="item">
                                 <div class="img">
-                                    <img src="assets/imgs/works/1/1.jpg" alt="">
+                                    <img src="assets/imgs/works/1/Nalo.png" alt="">
                                 </div>
                                 <div class="cont d-flex align-items-center mt-30 pb-15 bord-thin-bottom">
                                     <div>
-                                        <h5>Nice guy with a smile</h5>
-                                        <p>Graphic Designing</p>
+                                        <h5>নিশ্বাসের আলো</h5>
+                                        <p>A Health Care Platform </p>
                                     </div>
                                     <div class="ml-auto">
                                         <a href="project3.html" class="rmore">
@@ -319,12 +346,12 @@
                         <div class="swiper-slide">
                             <div class="item">
                                 <div class="img">
-                                    <img src="assets/imgs/works/1/2.jpg" alt="">
+                                    <img src="assets/imgs/works/1/cg project.png" alt="">
                                 </div>
                                 <div class="cont d-flex align-items-center mt-30 pb-15 bord-thin-bottom">
                                     <div>
-                                        <h5>Nice guy with a smile</h5>
-                                        <p>Graphic Designing</p>
+                                        <h5>Baizid's Journey</h5>
+                                        <p>Computer Graphics Project Using OpenGL</p>
                                     </div>
                                     <div class="ml-auto">
                                         <a href="project3.html" class="rmore">
@@ -338,12 +365,12 @@
                         <div class="swiper-slide">
                             <div class="item">
                                 <div class="img">
-                                    <img src="assets/imgs/works/1/3.jpg" alt="">
+                                    <img src="assets/imgs/works/1/tas.png" alt="">
                                 </div>
                                 <div class="cont d-flex align-items-center mt-30 pb-15 bord-thin-bottom">
                                     <div>
-                                        <h5>Nice guy with a smile</h5>
-                                        <p>Graphic Designing</p>
+                                        <h5>Train Accient Solution</h5>
+                                        <p>Arduino Project </p>
                                     </div>
                                     <div class="ml-auto">
                                         <a href="project3.html" class="rmore">
@@ -357,12 +384,12 @@
                         <div class="swiper-slide">
                             <div class="item">
                                 <div class="img">
-                                    <img src="assets/imgs/works/1/4.jpg" alt="">
+                                    <img src="assets/imgs/works/1/lc.png" alt="">
                                 </div>
                                 <div class="cont d-flex align-items-center mt-30 pb-15 bord-thin-bottom">
                                     <div>
-                                        <h5>Nice guy with a smile</h5>
-                                        <p>Graphic Designing</p>
+                                        <h5>Lung Cancer Prediction System</h5>
+                                        <p>Machine Learning Project</p>
                                     </div>
                                     <div class="ml-auto">
                                         <a href="project3.html" class="rmore">
@@ -388,9 +415,8 @@
     <section class="testim-crev" data-scroll-index="4">
         <div class="container">
             <div class="sec-head mb-80">
-                <h6 class="sub-title main-color mb-25">Testimonails</h6>
                 <div class="bord pt-25 bord-thin-top d-flex align-items-center">
-                    <h2>What people <span class="fw-200">say?</span></h2>
+                    <h2>My <span class="fw-200">Experiences</span></h2>
                     <div class="ml-auto">
                         <div class="swiper-arrow-control">
                             <div class="swiper-button-prev">
@@ -411,25 +437,14 @@
                             <div class="item bord-box radius-15">
                                 <div class="content">
                                     <div class="text">
-                                        <span class="tag sub-title mb-30 main-color">Design Quality</span>
-                                        <p>I have been hiring people in this
-                                            space for a number of years
-                                            and I have never seen this level of
-                                            professionalism. It really feels like you are
-                                            working with a team that can get the job
-                                            done.</p>
+                                    <span class="tag sub-title mb-30 main-color" <span class="tag sub-title mb-30 main-color" style="text-transform: capitalize; font-size: 1.5em;">Competition's That i Had Participated</span>
+                                        <p style ="font-size:25px">1. Hackathons  <br> 
+                                           2. Project Showcase  <br>
+                                           3. IUPC , ICPC Preliminary<br>
+                                           4. Hult Prize 
+                                        </p>
                                     </div>
                                     <div class="info mt-40">
-                                        <div class="img-curv">
-                                            <div class="img">
-                                                <img src="assets/imgs/testim/t2.jpg" alt="">
-                                            </div>
-                                        </div>
-                                        <div class="ml-20">
-                                            <h6>Adam Beckley</h6>
-                                            <span class="sub-title opacity-7">Founder &
-                                                CEO</span>
-                                        </div>
                                         <div class="ml-auto">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="256.721"
                                                 height="208.227" viewBox="0 0 256.721 208.227"
@@ -449,25 +464,28 @@
                             <div class="item bord-box radius-15">
                                 <div class="content">
                                     <div class="text">
-                                        <span class="tag sub-title mb-30 main-color">Design Quality</span>
-                                        <p>I have been hiring people in this
-                                            space for a number of years
-                                            and I have never seen this level of
-                                            professionalism. It really feels like you are
-                                            working with a team that can get the job
-                                            done.</p>
+                                    <span class="tag sub-title mb-30 main-color" <span class="tag sub-title mb-30 main-color" style="text-transform: capitalize; font-size: 1.5em;">Workshop's That i Had Participated</span>
+
+
+                                        <p style ="font-size:25px">
+                                           1. Game X 1.0 Workshop<br> 
+                                           organized by IEEE IIUC Student Branch <br> <br>
+                                           2. Professional Development<br> 
+                                           organized by IIUC Business Club <br> <br>
+                                           3. App Development Crash Course<br> 
+                                           IEEE Computer Society  <br> <br>
+                                           4. Empowering Developer: publish , Monetize and Excel with Banglalink Applink <br>
+                                           organized by IEEE Student Branch <br><br>
+                                           5.PHP , Laravel <br>
+                                           Edge Digital Skills Training <br><br>
+                                           6.Competitive programming Bootcamp <br>
+                                           arranged  by IIUC Competitive programming Society <br><br>
+                                           7.Project showcase <br>
+                                           organized by AUST Innovation and design Club <br>                                 
+                                        </p>
                                     </div>
                                     <div class="info mt-40">
-                                        <div class="img-curv">
-                                            <div class="img">
-                                                <img src="assets/imgs/testim/t1.jpg" alt="">
-                                            </div>
-                                        </div>
-                                        <div class="ml-20">
-                                            <h6>Adam Beckley</h6>
-                                            <span class="sub-title opacity-7">Founder &
-                                                CEO</span>
-                                        </div>
+     
                                         <div class="ml-auto">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="256.721"
                                                 height="208.227" viewBox="0 0 256.721 208.227"
@@ -489,8 +507,84 @@
         </div>
     </section>
 
+    <br>
+    <br>
+    <br>
+    <br>
+    
     <!-- ==================== End Testimonials ==================== -->
 
+        <!-- ==================== Start Testimonials ==================== -->
+  <!-- First Slide -->
+  <div class="swiper-slide" style="display: flex; justify-content: space-between; align-items: center; height: 100%; text-align: center;">
+    <!-- Left Box -->
+    <div class="item bord-box radius-15" style="width: 45%; text-align: center;">
+        <div class="content">
+            <div class="text">
+                <span class="tag sub-title mb-30 main-color" style="text-transform: capitalize; font-size: 2em;">
+                    My Achievements <br>
+                    ( Others )
+                </span>
+                <p style="font-size: 25px">
+                    1. Was Teaching Assistant of <br>
+                    Saiful Islam ( Lecturer , Department of CSE ) <br>
+                    C Programming <br><br>
+                    2. Mentor & Trainer, IIUCCPS  <br><br>
+                    3. Coordinator of IIUC Competitive Programming Society <br><br>
+                    4. Finalist of Hult Prize on Campus Round <br><br>
+                </p>
+            </div>
+            <div class="info mt-40" style="display: flex; justify-content: center;">
+                <div class="ml-auto">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="256.721" height="208.227" viewBox="0 0 256.721 208.227" class="qout-svg">
+                        <path data-name="Path" d="M-23.723-530.169v97.327H-121.05v-68.7q0-40.076,13.359-73.472T-62.845-639.9l36.259,28.625Q-63.8-570.244-68.57-530.169Zm158.395,0v97.327H37.345v-68.7q0-40.076,13.359-73.472T95.55-639.9l36.259,28.625Q94.6-570.244,89.825-530.169Z" transform="translate(121.55 640.568)" fill="none" stroke="#fff" stroke-width="1" opacity="0.322"></path>
+                    </svg>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Right Box -->
+    <div class="item bord-box radius-15" style="width: 45%; text-align: center;">
+        <div class="content">
+            <div class="text">
+                <span class="tag sub-title mb-30 main-color" style="text-transform: capitalize; font-size: 2em;">
+                    My Achievements <br>
+                    (Programming)
+                </span>
+                <p style="font-size: 25px">
+                    1. Participated in IUPC , ICPC Preliminary Contest  <br><br>
+                    2. Solved Over 1200 Problems on various online judge   <br><br>
+                    3. Team contest 01: Beginner Autumn 2022 By IIUCCPS <br>
+                       Rank : 2 <br><br>
+                    4. IIUC Intra - University Programming Contest , 2022 <br>
+                       Rank : 16<br><br>
+                    5. IIUC Intra Department Contest , 2023 <br>
+                       Rank : 19<br><br>
+                    6. IIUC Inter University (Divisional) , 2023 <br>
+                       Rank : 35<br><br>
+                    7. ICPC Asia Dhaka Regional Preliminary , 2023<br>
+                       Rank : 193<br><br>
+                    8. PU - CSE IT FEST 2024 ( Divisional)<br>
+                       Rank : 42<br><br>
+                </p>
+            </div>
+            <div class="info mt-40" style="display: flex; justify-content: center;">
+                <div class="ml-auto">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="256.721" height="208.227" viewBox="0 0 256.721 208.227" class="qout-svg">
+                        <path data-name="Path" d="M-23.723-530.169v97.327H-121.05v-68.7q0-40.076,13.359-73.472T-62.845-639.9l36.259,28.625Q-63.8-570.244-68.57-530.169Zm158.395,0v97.327H37.345v-68.7q0-40.076,13.359-73.472T95.55-639.9l36.259,28.625Q94.6-570.244,89.825-530.169Z" transform="translate(121.55 640.568)" fill="none" stroke="#fff" stroke-width="1" opacity="0.322"></path>
+                    </svg>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+    <!-- ==================== End Testimonials ==================== -->
 
 
     <!-- ==================== Start Blog ==================== -->
@@ -560,13 +654,14 @@
             <div class="row">
                 <div class="col-lg-5">
                     <div class="sec-head md-mb80">
-                        <h6 class="sub-title main-color mb-15 wow fadeInUp">Get In Touch</h6>
+                        <h6 class="sub-title main-color mb-15 wow fadeInUp">Assalamualaikum</h6>
                         <h2 class="text-u ls1 d-rotate wow">
-                            <span class="rotate-text">Let's make your brand <span
-                                    class="fw-200">brilliant!</span></span>
-                        </h2>
-                        <p class="mt-10">If you would like to work with us or just want to get in
-                            touch, we’d love to hear from you!</p>
+    <span class="rotate-text" style="text-transform: capitalize;">
+        For Any Query ,<span class="fw-200" style="text-transform: none;">you Can Contact Me</span>
+    </span>
+</h2>
+
+                        <p class="mt-10">Thank You </p>
                         <div class="phone fz-30 fw-600 mt-80 underline main-color">
                             <a href="#0">01846200413</a>
                         </div>
@@ -576,9 +671,6 @@
                             </li>
                             <li class="mr-30">
                                 <a href="#0" class="hover-this"><span class="hover-anim">Twitter</span></a>
-                            </li>
-                            <li class="mr-30">
-                                <a href="#0" class="hover-this"><span class="hover-anim">LinkedIn</span></a>
                             </li>
                             <li>
                                 <a href="#0" class="hover-this"><span
@@ -657,17 +749,6 @@
                 </div>
                 <div class="col-lg-4 col-md-6 order-md-2 md-mb15">
                     <div class="links d-flex justify-content-end">
-                        <ul class="rest d-flex align-items-center">
-                            <li>
-                                <a href="page-FAQS.html">FAQ</a>
-                            </li>
-                            <li class="ml-30">
-                                <a href="page-about3.html">Careers</a>
-                            </li>
-                            <li class="ml-30">
-                                <a href="page-contact3.html">Contact Us</a>
-                            </li>
-                        </ul>
                     </div>
                 </div>
             </div>

@@ -48,13 +48,21 @@
 
         <div class="loader-wrap-heading">
             <div class="load-text">
-                <span>L</span>
-                <span>o</span>
+                <span>A</span>
+                <span>s</span>
+                <span>s</span>
                 <span>a</span>
-                <span>d</span>
+                <span>l</span>
+                <span>a</span>
+                <span>m</span>
+                <span>u</span>
+                <span>a</span>
+                <span>l</span>
+                <span>a</span>
                 <span>i</span>
-                <span>n</span>
-                <span>g</span>
+                <span>k</span>
+                <span>u</span>
+                <span>m</span>
             </div>
         </div>
     </div>
@@ -105,7 +113,7 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#0" data-scroll-nav="1"><span
-                                    class="rolling-text">Services</span></a>
+                                    class="rolling-text">Profile</span></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#0" data-scroll-nav="2"><span
@@ -113,14 +121,18 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#0" data-scroll-nav="3"><span
-                                    class="rolling-text">Portfolio</span></a>
+                                    class="rolling-text">Projects</span></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#0" data-scroll-nav="4"><span
-                                    class="rolling-text">Clients</span></a>
+                                    class="rolling-text">Experience</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#0" data-scroll-nav="5"><span class="rolling-text">Blog</span></a>
+                            <a class="nav-link" href="#0" data-scroll-nav="4"><span
+                                    class="rolling-text">Achivement</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#0" data-scroll-nav="5"><span class="rolling-text">Education</span></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#0" data-scroll-nav="6"><span
@@ -163,7 +175,7 @@
                                 <li data-scroll-nav="1">
                                     <div class="o-hidden">
                                         <div class="link cursor-pointer dmenu"><span class="fill-text"
-                                                data-text="Services">Services</span>
+                                                data-text="Profile">Profile</span>
                                         </div>
                                     </div>
                                 </li>
@@ -177,21 +189,28 @@
                                 <li data-scroll-nav="3">
                                     <div class="o-hidden">
                                         <div class="link cursor-pointer dmenu"><span class="fill-text"
-                                                data-text="Portfolio">Portfolio</span>
+                                                data-text="Projects">Projects</span>
                                         </div>
                                     </div>
                                 </li>
                                 <li data-scroll-nav="4">
                                     <div class="o-hidden">
                                         <div class="link cursor-pointer dmenu"><span class="fill-text"
-                                                data-text="Clients">Clients</span>
+                                                data-text="Experiences">Experiences</span>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li data-scroll-nav="4">
+                                    <div class="o-hidden">
+                                        <div class="link cursor-pointer dmenu"><span class="fill-text"
+                                                data-text="Achievements">Achievements</span>
                                         </div>
                                     </div>
                                 </li>
                                 <li data-scroll-nav="5">
                                     <div class="o-hidden">
                                         <div class="link cursor-pointer dmenu"><span class="fill-text"
-                                                data-text="Blogs">Blogs</span>
+                                                data-text="Education">Education</span>
                                         </div>
                                     </div>
                                 </li>
@@ -209,7 +228,7 @@
                         <div class="cont-info">
                             <div class="item mb-50">
                                 <h6 class="sub-title mb-15 opacity-7">Address</h6>
-                                <h5>541 Melville Geek, <br> Palo Alto, CA 94301</h5>
+                                <h5>Pahartali 12 Quarter, West Nasirabad <br> Chittagong</h5>
                             </div>
                             <div class="item mb-50">
                                 <h6 class="sub-title mb-15 opacity-7">Social Media</h6>
@@ -229,9 +248,9 @@
                                 </ul>
                             </div>
                             <div class="item mb-40">
-                                <h6 class="sub-title mb-15 opacity-7">Contact Us</h6>
-                                <h5><a href="#0">Hello@email.com</a></h5>
-                                <h5 class="underline mt-10"><a href="#0">+1 840 841 25 69</a></h5>
+                                <h6 class="sub-title mb-15 opacity-7">Contact Information</h6>
+                                <h5><a href="#0">baizidzaman019@gmail.com</a></h5>
+                                <h5 class="underline mt-10"><a href="#0">01846200413</a></h5>
                             </div>
                         </div>
                     </div>
